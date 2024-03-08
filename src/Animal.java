@@ -14,4 +14,19 @@ public abstract class Animal {
                 ", specialCare='" + specialCare + '\'' +
                 '}';
     }
+
+    public static class Salmon{
+    }
+
+    public static class Shrimp {
+    }
+
+    public static class Leech {
+    }
+
+    public static class Dragonfly {
+    }
+
+    public static class Carp {
+    }
 }
