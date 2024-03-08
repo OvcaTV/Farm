@@ -24,7 +24,7 @@ public abstract class Flower {
 
     public static class Violet extends Flower{
         public Violet(String name, double price, double neededArea, double chanceOfGrowth) {
-            super(name, price, neededArea, chanceOfGrowth);
+            super(name = "Fialka", price = 22, neededArea = 10, chanceOfGrowth = 2);
         }
     }
 
